@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# Wildfire Tracker in React JS
+
+<img src="https://github.com/Mayank-141-Shaw/Wildfire-Tracker/blob/main/screenshots/tracker-app.png" />
+The dashboard of the tracker app
+
+## Wildfires
+
+
+Wildfire is a general term which includes forest fires, grassland fires, bushfires, brush fires and any other vegetation fire in countryside areas.
+
+Wildfires occur in every continent except Antarctica. They can occur naturally and spontaneously, but many are caused by humans, accidentally or deliberately. Fossil records and human history show that wildfires do occur at intervals. The Great Oxygenation Event and the spread of land plants made Earth a planet of fire.
+
+Wildfires can cause extensive damage to property and human life, but they also have some beneficial effects on wilderness areas. Some plant species depend on the effects of fire for growth and reproduction, although large wildfires may also have negative ecological effects.
+
+Strategies of wildfire prevention, detection, and suppression have varied over the years. One of the more controversial methods is controlled burn: People permit or light small fires to burn away some of the fuel for a potential wildfire. While some wildfires burn in remote forested regions, they can cause extensive destruction of homes and other property in the zone between developed areas and undeveloped wilderness.
+
+<img src="https://github.com/Mayank-141-Shaw/Wildfire-Tracker/blob/main/screenshots/wildfire.jpg" />
+### Wildfires
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
